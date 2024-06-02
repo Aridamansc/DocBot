@@ -40,7 +40,4 @@ The integration of the Retrieval Augmented System and LangChain Framework has a 
 1. Ensure you have the necessary prerequisites installed. See Important Notes.
 2. Start the Streamlit app: `streamlit run streamlit.py`
 
-## Important Notes
-- Remember to install PyTorch with CUDA support on your device as per the official PyTorch installation instructions.
-- For enhanced performance and scalability, consider using a GPU-accelerated environment.
-- Explore advanced question-answering techniques to improve the chatbot's accuracy and versatility.
+
